@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+	<project>
+		<title>Sample Project Title</title>
+		<description>This project consisted of renovating a historic 3-story admissions building and construction of a new 2-story addition. The addition provides new offices on the lower level, along with a student, family, and alumni waiting area on the main level. The first floor plan was reconfigured creating a new main entrance portico with a direct path to the grand reception area. The construction schedule was compressed from the original 8 month duration to a 6 month period to open in time for the School's peak admission season; while remaining 11% under budget. </description>
+		<thumbnail><img src="img/thumbnail.png" /></thumbnail>
+		<gallery>
+			<img src="img/gallery1.png" />
+			<img src="img/gallery2.png" />
+			<img src="img/gallery3.png" />
+			<img src="img/gallery4.png" />
+		</gallery>
+	</project>
+
+</projects>
